@@ -1,5 +1,5 @@
 # GitHub-Sublime-Theme
-a color scheme for sublime
+a color scheme for sublime bases on Base16 and GitHub's syntax highlighting
 
 ![](/screen.png)
 

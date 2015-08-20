@@ -5,7 +5,7 @@
 	<key>author</key>
 	<string>Julian Bennecker</string>
 	<key>name</key>
-	<string>GitHub</string>
+	<string>Base16 GitHub</string>
 	<key>semanticClass</key>
 	<string>theme.light.git_hub</string>
 	<key>colorSpaceName</key>
