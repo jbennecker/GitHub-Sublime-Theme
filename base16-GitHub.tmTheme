@@ -17,7 +17,7 @@
 		<key>divider</key>
 		<string>#f2f0ec</string>
 		<key>foreground</key>
-		<string>#515151</string>
+		<string>#333333</string>
 		<key>selectionBackground</key>
 		<string>#f2f0ec</string>
 		<key>selectionForeground</key>
@@ -33,7 +33,7 @@
 				<key>caret</key>
 				<string>#4b7efc</string>
 				<key>foreground</key>
-				<string>#515151</string>
+				<string>#333333</string>
 				<key>invisibles</key>
 				<string>#FFFFFF</string>
 				<key>lineHighlight</key>
@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#515151ff</string>
+				<string>#333333ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,7 +72,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#515151ff</string>
+				<string>#333333ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +83,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#515151ff</string>
+				<string>#333333ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -432,7 +432,7 @@
 				<key>background</key>
 				<string>#e8e6dfff</string>
 				<key>foreground</key>
-				<string>#515151ff</string>
+				<string>#333333ff</string>
 			</dict>
 		</dict>
 		<dict>
