@@ -7,6 +7,6 @@ a color scheme for sublime bases on Base16 and GitHub's syntax highlighting
 
 Add this to your Preferences.sublime-settings
 
-    "caret_extra_width": 1
+    "caret_extra_width": 1,
     "line_padding_bottom": 1,
     "line_padding_top": 1,
